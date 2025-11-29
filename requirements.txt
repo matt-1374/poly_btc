@@ -1,1 +1,11 @@
-requests
+# --- Bot Essentials (API & Time) ---
+requests==2.32.5
+pytz==2025.2
+
+# --- Data Analysis & Math ---
+pandas==2.3.3
+numpy==2.3.5
+scipy==1.16.3
+
+# --- Visualization (Optional: for graphing results) ---
+matplotlib==3.10.7
